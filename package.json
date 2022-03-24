@@ -1,0 +1,25 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "core-js": "^3.9.1",
+    "node-sass": "6.0.1",
+    "nuxt": "^2.15.8",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.1.0",
+    "sass-loader": "10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
